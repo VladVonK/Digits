@@ -1,0 +1,8 @@
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\digits.Form1.resources
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\digits.Properties.Resources.resources
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\digits.csproj.GenerateResource.Cache
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\bin\Debug\digits.exe
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\bin\Debug\digits.pdb
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\digits.exe
+C:\Users\Irina\Documents\Visual Studio 2005\Projects\digits\digits\obj\Debug\digits.pdb

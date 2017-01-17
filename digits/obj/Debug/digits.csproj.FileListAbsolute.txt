@@ -1,0 +1,18 @@
+D:\Новая папка (2)\src\digits\obj\Debug\digits.exe
+D:\Новая папка (2)\src\digits\obj\Debug\digits.pdb
+D:\Новая папка (2)\src\digits\bin\Debug\digits.exe
+D:\Новая папка (2)\src\digits\bin\Debug\digits.pdb
+D:\Новая папка (2)\src\digits\obj\Debug\digits.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\src\digits\obj\Debug\digits.Form1.resources
+D:\Новая папка (2)\src\digits\obj\Debug\digits.Properties.Resources.resources
+D:\Новая папка (2)\src\digits\obj\Debug\digits.csproj.GenerateResource.Cache
+D:\Новая папка (2)\src\digits\obj\Debug\digits.Form2.resources
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.exe
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.pdb
+D:\навчання\spec\kursach\proga\src\digits\bin\Debug\digits.exe
+D:\навчання\spec\kursach\proga\src\digits\bin\Debug\digits.pdb
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.csprojResolveAssemblyReference.cache
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.Form1.resources
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.Form2.resources
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.Properties.Resources.resources
+D:\навчання\spec\kursach\proga\src\digits\obj\Debug\digits.csproj.GenerateResource.Cache
